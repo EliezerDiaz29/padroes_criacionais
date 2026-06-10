@@ -1,0 +1,24 @@
+{
+  "name": "padroes_criacionais",
+  "version": "1.0.0",
+  "description": "Implementação e estudo dos padrões de projeto criacionais (Singleton, Factory Method, Builder) aplicando conceitos de Programação Orientada a Objetos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliezerDiaz29/padroes_criacionais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EliezerDiaz29/padroes_criacionais/issues"
+  },
+  "homepage": "https://github.com/EliezerDiaz29/padroes_criacionais#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
