@@ -297,7 +297,7 @@ Transportadoras disponíveis: `CORREIOS`, `JADLOG`, `RETIRADA`
 
 ---
 
-## Reflexão — O que seria diferente sem os padrões?
+## Reflexão: O que seria diferente sem os padrões?
 
 **Sem Singleton:** múltiplas conexões com o banco seriam criadas, consumindo recursos desnecessários e dificultando o controle do ciclo de vida da conexão.
 
